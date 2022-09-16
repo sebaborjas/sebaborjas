@@ -3,7 +3,7 @@
 
 # Full Stack Developer :monocle_face: :computer: :books: :uruguay:
 
-:wave: I'm Sebastian, a student of computer degree, I've been focused on Web development and I'd like to face exciting challenges.
+:wave: I'm Sebastian, a student of computer degree, I've been focused on Web development and I'm looking for exciting challenges.
 
 ## My projects :star2:
 
